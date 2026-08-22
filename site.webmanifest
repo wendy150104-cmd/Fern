@@ -1,0 +1,17 @@
+{
+  "name": "台北家事調解中心",
+  "short_name": "家事調解中心",
+  "description": "離婚、親權、共同親職、夫妻財產與跨境家事調解。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EF",
+  "theme_color": "#40312B",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

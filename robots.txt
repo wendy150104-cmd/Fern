@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://family-mediation-center.vercel.app/sitemap.xml
